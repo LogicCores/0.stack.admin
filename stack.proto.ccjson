@@ -32,6 +32,9 @@
             },
             "client": {
                 "context": {
+                    "application": {
+                        "enableAuthentication": true
+                    },
                     "page": {
                         "path": "/Dashboard"
                     }
